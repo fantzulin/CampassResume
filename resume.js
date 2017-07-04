@@ -1,0 +1,23 @@
+$(function(){
+	$('#example1').progress();
+	$('#example2').progress();
+	$('#example3').progress();
+	$('#example4').progress();
+	$('#example5').progress();
+	$('#example6').progress();
+	$('#example7').progress();
+	$('#example8').progress();
+	$('#example9').progress();
+	$('#example10').progress();
+	$('#example11').progress();
+	$('#example12').progress();
+	$('#example13').progress();
+	$('#example14').progress();
+	$('#example15').progress();
+	$('#example16').progress();
+	$('#example17').progress();
+	$('#example18').progress();
+	$('#example19').progress();
+	$('#example20').progress();
+	$('#example21').progress();
+});
